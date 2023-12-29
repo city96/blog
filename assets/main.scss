@@ -4,8 +4,9 @@
 @import "minima";
 
 /* Base dark theme */
-body { color: #dadada!important; background-color: #1a1a1a }
-.site-title { color: #fefefe }
+body { color: #dadada !important; background-color: #1a1a1a }
+.site-title { color: #fefefe !important }
+.site-title:hover { color: #f48120 !important }
 .site-header, .site-footer { background-color: #141414; border: 0 !important }
 
 /* links */
