@@ -11,7 +11,7 @@ body { color: #dadada !important; background-color: #1a1a1a }
 
 /* links */
 .site-nav .page-link { color: #c1c1c1; }
-a { color: #0080c0 }
+a, a:visited { color: #0080c0 }
 a:hover, .page-link:hover { color: #f48120; text-decoration: none }
 
 /* Modified bootleg monokai */
