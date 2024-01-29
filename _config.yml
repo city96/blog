@@ -1,0 +1,17 @@
+title: City's blog
+email: city@v100s.net
+description: Articles / Project release announcements
+author: City96
+# url: "" # auto set anyway
+twitter_username: city96p
+github_username: city96
+rss: rss
+
+header_pages:
+ - about.md
+ - contact.md
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
